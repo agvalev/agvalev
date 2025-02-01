@@ -1,11 +1,14 @@
 <h1 align="center" class="heading-element" dir="auto">Hi 👋, I'm Anatoli</h1>
-  <h3 align="center" class="heading-element" dir="auto">I'm a 17-year-old student at SoftUni currently learning Python I'm passionate about coding, problem-solving, and building cool projects.</h3>
-  <br>
+<h3 align="center" class="heading-element" dir="auto">Student at SoftUni currently learning Python, PostgreSQL Django</h3>
   
-![](https://github-profile-trophy.vercel.app/?username=agvalev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=agvalev&label=Profile%20views&color=0e75b6&style=flat" alt="deyordanov" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=agvalev" alt="agvalev" /></a> </p>
 
 
-💻 Currently learning: Python &amp; PostgreSQL<br><br>📫 Reach me at: [anatoligvalev@gmail.com]<br>
+- 💻 Currently learning: Python & PostgreSQL
+
+- 📫 How to reach me **anatoligvalev@gmail.com**
 
 <h3 align="left" class="heading-element" dir="auto">Connect with me:</h3>
 <p align="left" dir="auto">
