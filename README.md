@@ -1,12 +1,12 @@
 <h1 align="center" class="heading-element" dir="auto">Hi 👋, I'm Anatoli</h1>
-<h3 align="center" class="heading-element" dir="auto">Student at SoftUni currently learning Python, PostgreSQL Django</h3>
+<h3 align="center" class="heading-element" dir="auto">Software Developer, Currently Student at SoftUni </h3>
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agvalev&label=Profile%20views&color=0e75b6&style=flat" alt="deyordanov" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=agvalev" alt="agvalev" /></a> </p>
 
 
-- 💻 Currently learning: Python & PostgreSQL
+- 💻 Currently learning: Python, PostgreSQL, Django
 
 - 📫 How to reach me **anatoligvalev@gmail.com**
 
