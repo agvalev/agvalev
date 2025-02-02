@@ -27,6 +27,10 @@
 </a>
 <a href="https://www.linux.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="max-width: 100%;"> 
 </a>
+<a href="https://fastapi.tiangolo.com/" rel="nofollow"> <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40" style="max-width: 100%;"> 
+</a>
+
+
 
 <br>
 
