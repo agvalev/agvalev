@@ -3,7 +3,7 @@
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agvalev&label=Profile%20views&color=0e75b6&style=flat" alt="deyordanov" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=agvalev" alt="agvalev" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=agvalev&theme=dark_lover" alt="agvalev" /></a> </p>
 
 
 - 💻 Currently learning: Python, PostgreSQL, Django
@@ -34,7 +34,7 @@
 
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=agvalev)](https://git.io/streak-stats)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=agvalev&show_icons=true&locale=en&layout=compact" alt="agvalev" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agvalev&show_icons=true&locale=en" alt="agvalev" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=agvalev&theme=midnight-purple)](https://git.io/streak-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=agvalev&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="agvalev" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agvalev&theme=midnight-purple&show_icons=true" alt="agvalev" /></p>
 
