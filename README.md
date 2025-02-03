@@ -36,7 +36,8 @@
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=agvalev&theme=midnight-purple)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=agvalev&theme=midnight-purple&show_icons=true)
+<img src="https://streak-stats.demolab.com?user=agvalev&theme=midnight-purple" alt="agvalev" style="display: inline-block; margin-right: 10px;"/>
+<img src="https://github-readme-stats.vercel.app/api?username=agvalev&theme=midnight-purple&show_icons=true"  alt="agvalev" style="display: inline-block;"/>
+
 
 
