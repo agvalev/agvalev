@@ -32,10 +32,16 @@
 
 
 
+
 <br>
 
 
+<div align="center" dir="auto">
+  
+<img align=left src="https://streak-stats.demolab.com?user=agvalev&theme=midnight-purple" alt="agvalev" style="max-width: 100%;"/>
+<img align=left src="https://github-readme-stats.vercel.app/api?username=agvalev&theme=midnight-purple&show_icons=true" alt="agvalev" style="max-width: 100%;"/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=agvalev&theme=midnight-purple)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=agvalev&theme=midnight-purple&show_icons=true)
+<br/>
+</div>
+
 
