@@ -38,8 +38,8 @@
 
 <div align=center dir="auto">
 
-<img src="https://streak-stats.demolab.com?user=agvalev&theme=midnight-purple" alt="agvalev" height ="170px;" style="max-width: 100%;"/>
-<img src="https://github-readme-stats.vercel.app/api?username=agvalev&theme=midnight-purple&show_icons=true" alt="agvalev" height ="170px;" style="max-width: 100%;"/>
+<img src="https://streak-stats.demolab.com?user=agvalev&theme=midnight-purple" alt="agvalev" height ="180px;" style="max-width: 100%;"/>
+<img src="https://github-readme-stats.vercel.app/api?username=agvalev&theme=midnight-purple&show_icons=true" alt="agvalev" height ="180px;" style="max-width: 100%;"/>
 
 <br/>
 </div>
