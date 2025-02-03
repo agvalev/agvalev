@@ -32,11 +32,13 @@
 
 
 
-<br>
-<div height ="170px;" style="max-width: 100%;" align=center dir="auto">
-  
+
+
+<br/>
+<div height ="110px;" style="max-width: 100%;" align=left dir="auto">
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=agvalev&theme=midnight-purple)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=agvalev&show_icons=true&theme=aura)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=agvalev&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="agvalev" />
 <br/>
 </div>
 
