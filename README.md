@@ -1,8 +1,8 @@
 <h1 align="center" class="heading-element" dir="auto">Hi 👋, I'm Anatoli</h1>
 <h3 align="center" class="heading-element" dir="auto">Software Developer, Currently Student at SoftUni </h3>
-  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=agvalev&label=Profile%20views&color=0e75b6&style=flat" alt="deyordanov" /> </p>
 
+<br/>
+<br/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=agvalev&theme=dark_lover" alt="agvalev" /></a> </p>
 
 
