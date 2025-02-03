@@ -32,13 +32,10 @@
 
 
 
-
 <br>
-
-
 <div align=center dir="auto">
 
-<img src="https://streak-stats.demolab.com?user=agvalev&theme=midnight-purple" alt="agvalev" height ="170px;" style="max-width: 100%;"/>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=agvalev&theme=midnight-purple" alt="GitHub Streak" height ="170px;" style="max-width: 100%;"/></a>
 <img src="https://github-readme-stats.vercel.app/api?username=agvalev&show_icons=true&theme=aura" alt="agvalev" height ="170px;" style="max-width: 100%;"/>
 
 <br/>
