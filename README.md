@@ -36,7 +36,7 @@
 <br>
 
 
-<div align="center" dir="auto">
+<div align="left" dir="auto">
   
 <img src="https://streak-stats.demolab.com?user=agvalev&theme=midnight-purple" alt="agvalev" style="max-width: 100%;"/>
 <img src="https://github-readme-stats.vercel.app/api?username=agvalev&theme=midnight-purple&show_icons=true" alt="agvalev" style="max-width: 100%;"/>
