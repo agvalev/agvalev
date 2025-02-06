@@ -36,7 +36,6 @@
 
 <br/>
 <div style="max-width: 100%;" align=left dir="auto">
-  
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=agvalev&theme=midnight-purple" height ="170px;" style="max-width: 100%;"/></a>
 <img src="https://github-readme-stats.vercel.app/api?username=agvalev&theme=midnight-purple&show_icons=true" alt="agvalev" height ="170px;" style="max-width: 100%;" />
 </div>
