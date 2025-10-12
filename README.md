@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=agvalev&theme=dark_lover" alt="agvalev" /></a> </p>
 
 
-- 💻 Currently learning: Python, PostgreSQL, Django
+- 💻 Currently learning:FastAPI, Django
 
 - 📫 How to reach me **anatoligvalev@gmail.com**
 
