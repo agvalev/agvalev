@@ -3,8 +3,8 @@
 
 <br/>
 <br/>
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=agvalev&theme=dark=lover" alt="agvalev" /></a> </p> -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=agvalev)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=agvalev&theme=dark_lover" alt="agvalev" /></a> </p>
+
 
 - 💻 Currently learning: FastAPI, Django
 
@@ -37,7 +37,7 @@
 
 <br/>
 <div style="max-width: 100%;" align=left dir="auto">
-  
+
 <img src="https://github-readme-stats.vercel.app/api?username=agvalev&theme=midnight-purple&show_icons=true" alt="agvalev" height ="170px;" style="max-width: 100%;" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=agvalev&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="agvalev" height ="150px;" style="max-width: 100%;" />
 
