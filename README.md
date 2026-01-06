@@ -3,7 +3,7 @@
 
 <br/>
 <br/>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=agvalev&theme=dark_lover" alt="agvalev" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dark=lover" alt="agvalev" /></a> </p>
 
 
 - 💻 Currently learning: FastAPI, Django
