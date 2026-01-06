@@ -3,9 +3,8 @@
 
 <br/>
 <br/>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=agvalev&theme=dark=lover" alt="agvalev" /></a> </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/agvalev/github-profile-trophy)
-
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=agvalev&theme=dark=lover" alt="agvalev" /></a> </p> -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=agvalev)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 💻 Currently learning: FastAPI, Django
 
