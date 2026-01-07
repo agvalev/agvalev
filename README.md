@@ -3,7 +3,12 @@
 
 <br/>
 <br/>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=agvalev&theme=dark_lover" alt="agvalev" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=agvalev&theme=dark_lover" alt="agvalev" /></a> </p> -->
+
+<!-- <div align="center">
+  <img src="https://streak-stats.demolab.com?user=agvalev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=agvalev&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div> -->
 
 
 - 💻 Currently learning: FastAPI, Django
@@ -38,7 +43,15 @@
 <br/>
 <div style="max-width: 100%;" align=left dir="auto">
 
-<img src="https://github-readme-stats.vercel.app/api?username=agvalev&theme=midnight-purple&show_icons=true" alt="agvalev" height ="170px;" style="max-width: 100%;" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=agvalev&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="agvalev" height ="150px;" style="max-width: 100%;" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=agvalev&theme=midnight-purple&show_icons=true" alt="agvalev" height ="170px;" style="max-width: 100%;" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=agvalev&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="agvalev" height ="150px;" style="max-width: 100%;" /> -->
+
+
+<!-- <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
+ -->
 
 </div>
