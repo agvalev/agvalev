@@ -21,12 +21,16 @@
 ### 🤝 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/anatoli-valev-098829335/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+         width="50" height="40" style="margin-right:25px;"/>
   </a>
+
   <a href="https://www.instagram.com/_a.valev_/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+         width="50" height="40"/>
   </a>
 </p>
+
 
 ---
 
